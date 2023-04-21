@@ -1,5 +1,9 @@
 ## AI Privacy and Data Protection FAQ
 
+### TL;DR
+
+TL;DR: There is no guarantee of complete privacy. AI models require vast amounts of data to function, and user data may be anonymized and used to improve these models.
+
 ### Table of Contents
 
 1. [Q1: How do AI providers use my data to train their LLMs?](#q1)
