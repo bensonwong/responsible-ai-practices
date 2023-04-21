@@ -4,29 +4,31 @@ This repository aims to collect and refine industry best practices and recommend
 
 ## Contents
 
+- [AI Licensing and Ownership FAQ](FAQ/AI_LICENSING_AND_OWNERSHIP.md)
+- [AI Privacy and Data Protection FAQ](FAQ/AI_PRIVACY_AND_DATA_PROTECTION.md)
 - [Best Practices](best-practices/)
 - [Case Studies](case-studies/)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [License](LICENSE)
 - [Readme](README.md)
-- [AI Licensing and Ownership FAQ](AI_LICENSING_AND_OWNERSHIP_FAQ.md)
-- [AI Privacy and Data Protection FAQ](AI_PRIVACY_AND_DATA_PROTECTION_FAQ.md)
 
 ## Folder Structure
 
 ```
 .
+├── FAQ/
+│   ├── AI_LICENSING_AND_OWNERSHIP_FAQ.md
+│   └── AI_PRIVACY_AND_DATA_PROTECTION_FAQ.md
 ├── best-practices/
-│ └── best-practice-template.md
+│   └── best-practice-template.md
 ├── case-studies/
-│ └── case-study-template.md
+│   └── case-study-template.md
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE
-├── README.md
-└── AI_LICENSING_AND_OWNERSHIP_FAQ.md
-└── AI_PRIVACY_AND_DATA_PROTECTION_FAQ.md
+└── README.md
+
 ```
 
 ## Best Practices
