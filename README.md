@@ -10,6 +10,7 @@ This repository aims to collect and refine industry best practices and recommend
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [License](LICENSE)
 - [Readme](README.md)
+- [AI Licensing and Ownership FAQ](AI_LICENSING_AND_OWNERSHIP_FAQ.md)
 
 ## Folder Structure
 
@@ -22,8 +23,11 @@ This repository aims to collect and refine industry best practices and recommend
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE
-└── README.md
+├── README.md
+└── AI_LICENSING_AND_OWNERSHIP_FAQ.md
 ```
+
+I've added the new document to the main directory and named it `AI_LICENSING_AND_OWNERSHIP_FAQ.md`. This file will be easily accessible, and users can refer to it for frequently asked questions regarding AI licensing and ownership.
 
 ## Best Practices
 
