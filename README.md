@@ -11,6 +11,7 @@ This repository aims to collect and refine industry best practices and recommend
 - [License](LICENSE)
 - [Readme](README.md)
 - [AI Licensing and Ownership FAQ](AI_LICENSING_AND_OWNERSHIP_FAQ.md)
+- [AI Privacy and Data Protection FAQ](AI_PRIVACY_AND_DATA_PROTECTION_FAQ.md)
 
 ## Folder Structure
 
@@ -25,9 +26,8 @@ This repository aims to collect and refine industry best practices and recommend
 ├── LICENSE
 ├── README.md
 └── AI_LICENSING_AND_OWNERSHIP_FAQ.md
+└── AI_PRIVACY_AND_DATA_PROTECTION_FAQ.md
 ```
-
-I've added the new document to the main directory and named it `AI_LICENSING_AND_OWNERSHIP_FAQ.md`. This file will be easily accessible, and users can refer to it for frequently asked questions regarding AI licensing and ownership.
 
 ## Best Practices
 
