@@ -1,6 +1,6 @@
 # Responsible AI Practices
 
-This repository aims to collect and refine industry best practices and recommendations on the safe use of AI tools in large organizations that need to protect their data while staying competitive.
+This repository is designed to provide valuable resources for CEOs, directors, and other non-technical professionals, as well as potential contributors, to ensure the safe and responsible use of AI tools in large organizations. Our goal is to help protect your data while staying competitive in the market.
 
 ## Contents
 
@@ -18,8 +18,8 @@ This repository aims to collect and refine industry best practices and recommend
 ```
 .
 ├── FAQ/
-│   ├── AI_LICENSING_AND_OWNERSHIP_FAQ.md
-│   └── AI_PRIVACY_AND_DATA_PROTECTION_FAQ.md
+│   ├── AI_LICENSING_AND_OWNERSHIP.md
+│   └── AI_PRIVACY_AND_DATA_PROTECTION.md
 ├── best-practices/
 │   └── best-practice-template.md
 ├── case-studies/
@@ -28,20 +28,23 @@ This repository aims to collect and refine industry best practices and recommend
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
-
 ```
+
+## Frequently Asked Questions (FAQ)
+
+Our [FAQ](FAQ/) section covers essential topics related to AI Licensing and Ownership as well as AI Privacy and Data Protection. These resources are tailored for non-technical users to help them understand and navigate the complexities surrounding AI implementations.
 
 ## Best Practices
 
-The [best-practices](best-practices/) directory contains documents detailing best practices for the safe and responsible use of AI tools in large organizations. If you'd like to contribute a new best practice, please use the [best-practice-template.md](best-practices/best-practice-template.md) as a starting point.
+The [best-practices](best-practices/) directory offers a collection of best practices to ensure the safe and responsible use of AI tools within large organizations. While non-technical professionals can benefit from the information provided, potential contributors can also use the [best-practice-template.md](best-practices/best-practice-template.md) as a starting point to add new best practices.
 
 ## Case Studies
 
-The [case-studies](case-studies/) directory contains real-world examples of large organizations implementing responsible AI practices. To contribute a case study, please use the [case-study-template.md](case-studies/case-study-template.md) as a guide.
+In the [case-studies](case-studies/) directory, you'll find real-world examples of large organizations successfully implementing responsible AI practices. These case studies serve as valuable lessons for both non-technical and technical users. To contribute a case study, please use the [case-study-template.md](case-studies/case-study-template.md) as a guide.
 
 ## Contributing
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) to learn how you can contribute to this project. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+If you'd like to contribute to this project, please read our [Contributing Guidelines](CONTRIBUTING.md). By participating, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
